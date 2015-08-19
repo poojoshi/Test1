@@ -25,6 +25,7 @@
 
 
 ## Features
+
 ###### List the features of your project with one line description of each.
 
 * Feature1
@@ -34,24 +35,31 @@
 
 
 ### Architecture
+-----------------------------------------------------------------------------------------------------------------------------
+
 ######  Describe the project architecture's idea in brief
  
 ![Diagram1](path /of the /image file)
 
 
 ### Control Nodes
+-----------------------------------------------------------------------------------------------------------------------------
+
 ###### Write working of Control nodes in this section
 
 ![Diagram to describe control nodes](path /of the/ image file)
 
 
 ### Resource Nodes
+-----------------------------------------------------------------------------------------------------------------------------
+
 ###### Write the working of resource nodes in this section
 
 ![Diagram to describe resource nodes](path /of the /image file)
 
 
 ## Getting Started
+
 ###### Write steps for working with git.Git's commands which can be used and its description.
 
 All development is done on the `master` branch. Tested, stable versions are identified via git tags.
@@ -81,11 +89,13 @@ Note:
 
 
 ### Software Requirements
+-----------------------------------------------------------------------------------------------------------------------------
 
 ###### Write about the software requirements to run the project in this section.
 
 
 ### Deploying on multiple servers
+-----------------------------------------------------------------------------------------------------------------------------
 
 ###### Please refer to the [Getting Started Guide](path/for the/ getting started guide),which covers deployments.
 
@@ -100,6 +110,8 @@ Note:
 ## Roadmap
 
 ### Core Components and Features
+-----------------------------------------------------------------------------------------------------------------------------
+
 ###### List core components and features here
 - [x] Component1 
 - [x] Feature1
@@ -108,6 +120,8 @@ Note:
 
 
 ### Security
+-----------------------------------------------------------------------------------------------------------------------------
+
 ###### List the security services it provides
 - [x] service1
 - [x] service2
@@ -115,12 +129,16 @@ Note:
 
 
 ### Operations
+-----------------------------------------------------------------------------------------------------------------------------
+
 ###### List the operations it supports
 - [x] Operation1
 - [x] Operation2
 - [ ] Operation3
 
 ### Platform Support
+-----------------------------------------------------------------------------------------------------------------------------
+
 ###### List all the platforms which are supported
 - [x] Platform1
 - [ ] Platform2
