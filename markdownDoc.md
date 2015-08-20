@@ -62,23 +62,8 @@
 
 ###### Write steps for working with git.Git's commands which can be used and its description.
 
-All development is done on the `master` branch. Tested, stable versions are identified via git tags.
 
-```
-    git clone  URL of repository 
-```
 
-To use a stable version, use `git tag` to list the stable versions:
-
-```
-git tag (_This command gives a list of versions_)
-0.1.0
-0.2.0
-...
-0.3.0
-
-git checkout 0.3.0 (*0.3.0 is the version*)
-```
 
 Note:
 
