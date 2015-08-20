@@ -63,9 +63,6 @@
 
 ###### Write steps for working with git.Git's commands which can be used and its description.
 
-
-
-
 Note:
 
 * Note1
@@ -87,7 +84,7 @@ Note:
 
 #### Deploying Using Debian Package
 `````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
-###### Write about the deployment procedure using the debian package
+     Write about the deployment procedure using the debian package
 `````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
 
 ## Documentation
@@ -101,9 +98,7 @@ Note:
 -----------------------------------------------------------------------------------------------------------------------------
 
 ###### List core components and features here
-- [x] Component1 
-- [x] Feature1
-- [ ] Component2
+- [x] Orchestration
 
 
 
@@ -111,26 +106,21 @@ Note:
 -----------------------------------------------------------------------------------------------------------------------------
 
 ###### List the security services it provides
-- [x] service1
-- [x] service2
-- [x] service3
+- [x] Authentication
+
 
 
 ### Operations
 -----------------------------------------------------------------------------------------------------------------------------
 
 ###### List the operations it supports
-- [x] Operation1
-- [x] Operation2
-- [ ] Operation3
+
+
 
 ### Platform Support
 -----------------------------------------------------------------------------------------------------------------------------
 
 ###### List all the platforms which are supported
-- [x] Platform1
-- [ ] Platform2
-- [ ] Platform3
 
 
 
