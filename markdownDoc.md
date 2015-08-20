@@ -12,7 +12,7 @@
         - [Agent Server](#agent-server)
     - [Getting Started](#getting-started)
         - [Software Requirements](#software-requirements)
-        - [Deploying on multiple servers](#deploying-on-multiple-servers)
+        - [Deployment Procedure](#deployment-procedure)
     - [Documentation](#documentation)
     - [Roadmap](#roadmap)
         - [Core Components and Features](#core-components-and-features)
@@ -79,7 +79,7 @@ Note:
 ###### Write about the software requirements to run the project in this section.
 
 
-### Deploying on multiple servers
+### Deployment Procedure
 -----------------------------------------------------------------------------------------------------------------------------
 
 ###### Please refer to the [Getting Started Guide](path/for the/ getting started guide),which covers deployments.
