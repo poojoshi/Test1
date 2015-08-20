@@ -13,6 +13,7 @@
     - [Getting Started](#getting-started)
         - [Software Requirements](#software-requirements)
         - [Deployment Procedure](#deployment-procedure)
+            - [Deploying using Debian Package](#deploying-using-debian-package)
     - [Documentation](#documentation)
     - [Roadmap](#roadmap)
         - [Core Components and Features](#core-components-and-features)
@@ -84,14 +85,14 @@ Note:
 
 ###### Please refer to the [Getting Started Guide](path/for the/ getting started guide),which covers deployments.
 
+#### Deploying Using Debian Package
 
+###### Write about the deployment procedure using the debian package
 
 
 ## Documentation
 
 ###### All documentation is located at [URL of the Documentation](path/of/the/documentation page)
-
-
 
 
 ## Roadmap
