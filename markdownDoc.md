@@ -8,8 +8,8 @@
 - [Overview](#overview)
     - [Features](#features)
         - [Architecture](#architecture)
-        - [Control Nodes](#control-nodes)
-        - [Resource Nodes](#resource-nodes)
+        - [Api Server](#api-server)
+        - [Agent Server](#agent-server)
     - [Getting Started](#getting-started)
         - [Software Requirements](#software-requirements)
         - [Deploying on multiple servers](#deploying-on-multiple-servers)
@@ -42,18 +42,18 @@
 ![Diagram1](path /of the /image file)
 
 
-### Control Nodes
+### Api Server
 -----------------------------------------------------------------------------------------------------------------------------
 
-###### Write working of Control nodes in this section
+###### Write working of Api server in this section
 
 ![Diagram to describe control nodes](path /of the/ image file)
 
 
-### Resource Nodes
+### Agent Server
 -----------------------------------------------------------------------------------------------------------------------------
 
-###### Write the working of resource nodes in this section
+###### Write the working of Agent server in this section
 
 ![Diagram to describe resource nodes](path /of the /image file)
 
